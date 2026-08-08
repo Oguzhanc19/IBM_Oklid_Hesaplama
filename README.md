@@ -1,15 +1,24 @@
-# Euclidean Distance Calculator
+<div align="center">
+  <h1>⚙️ IBM_Oklid_Hesaplama</h1>
+  <p><i>Project Repository / Proje Deposu</i></p>
+</div>
 
-## English
-A Python script to calculate the Euclidean distance between points in a 2D or multi-dimensional space, utilizing Python's built-in math capabilities.
+<br>
 
-### Usage
-Run the script to calculate the shortest distance between defined points.
+## 🇬🇧 English
+Welcome to the **IBM_Oklid_Hesaplama** repository. This project contains scripts, assets, and source code crafted to solve specific problems or automate tasks.
+
+### ✨ Features
+- 🚀 High performance & clean code structure.
+- 🧩 Easy to integrate and modify.
+- 💻 Built for efficiency.
 
 ---
 
-## Türkçe
-2 boyutlu veya çok boyutlu uzayda, noktalar arasındaki Öklid (Euclidean) mesafesini hesaplayan, Python'un yerleşik matematik kütüphanelerini kullanan basit bir betik.
+## 🇹🇷 Türkçe
+**IBM_Oklid_Hesaplama** reposuna hoş geldiniz. Bu proje, belirli problemleri çözmek veya görevleri otomatikleştirmek amacıyla hazırlanmış betikler, kaynak dosyalar ve kodlar içerir.
 
-### Kullanım
-Belirlenen noktalar arasındaki en kısa mesafeyi hesaplamak için betiği çalıştırın.
+### ✨ Özellikler
+- 🚀 Yüksek performanslı ve temiz kod yapısı.
+- 🧩 Kolayca entegre edilebilir ve değiştirilebilir.
+- 💻 Verimlilik odaklı geliştirilmiştir.

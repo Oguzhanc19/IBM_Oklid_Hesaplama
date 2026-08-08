@@ -1,24 +1,27 @@
 <div align="center">
-  <h1>⚙️ IBM_Oklid_Hesaplama</h1>
-  <p><i>Project Repository / Proje Deposu</i></p>
+  <h1>📐 Euclidean Distance Calculator</h1>
+  <p><i>Coordinate Geometry & Distance Algorithm in Python<br>Python ile Koordinat Geometrisi ve Mesafe Algoritması</i></p>
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 </div>
 
 <br>
 
 ## 🇬🇧 English
-Welcome to the **IBM_Oklid_Hesaplama** repository. This project contains scripts, assets, and source code crafted to solve specific problems or automate tasks.
 
-### ✨ Features
-- 🚀 High performance & clean code structure.
-- 🧩 Easy to integrate and modify.
-- 💻 Built for efficiency.
+A focused Python script written to calculate the Euclidean distance between multiple coordinates in a 2D space. It demonstrates mathematical computing and nested loop structures.
+
+### 🧠 Algorithmic Approach
+- **Mathematical Formula**: Implements the standard Euclidean distance formula `√((x2 - x1)² + (y2 - y1)²)` utilizing Python's built-in `math.sqrt()` function.
+- **Permutation Checking**: Uses a nested `for` loop (`for j in range(i + 1, len(points))`) to calculate the distance between *every unique pair* of points provided in a list of tuples without duplicating the checks.
+- **Optimization**: Appends all distances to an array and uses the built-in `min()` function to rapidly find the closest pair of coordinates.
 
 ---
 
 ## 🇹🇷 Türkçe
-**IBM_Oklid_Hesaplama** reposuna hoş geldiniz. Bu proje, belirli problemleri çözmek veya görevleri otomatikleştirmek amacıyla hazırlanmış betikler, kaynak dosyalar ve kodlar içerir.
 
-### ✨ Özellikler
-- 🚀 Yüksek performanslı ve temiz kod yapısı.
-- 🧩 Kolayca entegre edilebilir ve değiştirilebilir.
-- 💻 Verimlilik odaklı geliştirilmiştir.
+2 boyutlu uzayda (2D space) verilen birden fazla koordinat noktası arasındaki Öklid (Euclidean) mesafesini hesaplamak için yazılmış Python betiği. Matematiksel hesaplama ve iç içe döngü yapılarını göstermek için ideal bir projedir.
+
+### 🧠 Algoritmik Yaklaşım
+- **Matematiksel Formül**: Standart Öklid mesafe formülü olan `√((x2 - x1)² + (y2 - y1)²)` işlemini, Python'un yerleşik `math.sqrt()` fonksiyonunu kullanarak koda döker.
+- **Kombinasyon Kontrolü**: İç içe geçmiş bir `for` döngüsü (`for j in range(i + 1, len(points))`) kullanarak, verilen koordinat listesindeki *her benzersiz nokta çifti* arasındaki mesafeyi, işlemleri tekrarlamadan hesaplar.
+- **Optimizasyon**: Tüm mesafeleri bir listeye ekler ve birbirine en yakın iki noktayı bulmak için `min()` fonksiyonunu kullanarak sonucu en hızlı şekilde yazdırır.
